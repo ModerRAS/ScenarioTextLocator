@@ -1,0 +1,15 @@
+bin/
+obj/
+publish/
+samples/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.cache
+*.pdb
+*.tmp
+Thumbs.db
+Desktop.ini
